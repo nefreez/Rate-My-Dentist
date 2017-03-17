@@ -16,3 +16,4 @@ a. Add a more detailed description of the prototype you are going to develop.
 b. Add an overview of the main usage scenarios. 
 c. Add an overview of the main user stories. 
 d. Add images of the different views/screens from your paper prototype and wireframe and a brief description of them. 
+
