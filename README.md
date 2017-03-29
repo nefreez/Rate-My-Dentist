@@ -1,6 +1,7 @@
 # Rate-My-Dentist
 
 3. Add a README file with the following sections:
+
     a. Brief overview of the project. 
     The project aim is to create an advanced dentist service search engine. It would include search:
     - by the exact service type needed
